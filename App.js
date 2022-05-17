@@ -49,7 +49,7 @@ export default function App() {
           <Text>Barcode data loaded into clipboard</Text>
         </>
       ) : (
-        <Text>Scanning scanner</Text>
+        <Text>Looking for barcode</Text>
       )}
       <StatusBar style="auto" />
     </SafeAreaView>

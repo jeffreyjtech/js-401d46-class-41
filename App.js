@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-// import { Camera } from 'expo-camera';
 import { BarCodeScanner } from 'expo-barcode-scanner';
 import * as Clipboard from 'expo-clipboard';
 import { StatusBar } from 'expo-status-bar';

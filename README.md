@@ -9,4 +9,4 @@ Scan a barcode, quickly and easily with no ads.
 
 ## Credits
 
-Used the Expo API [BarCodeScanner](https://docs.expo.dev/versions/v45.0.0/sdk/bar-code-scanner/) & [Clipboard](https://docs.expo.dev/versions/v45.0.0/sdk/clipboard/) docs.
+- Used the Expo API [BarCodeScanner](https://docs.expo.dev/versions/v45.0.0/sdk/bar-code-scanner/) & [Clipboard](https://docs.expo.dev/versions/v45.0.0/sdk/clipboard/) docs to develop this app.
